@@ -13,6 +13,7 @@ of CCG cards as NFT, create a marketplace for players to exchange NFT, and run a
 
 
 
+[Download Demo Video](./video.mkv)
 
 
 
