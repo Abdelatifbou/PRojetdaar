@@ -1,0 +1,18 @@
+[
+  "constructor(address,address)",
+  "error OwnableInvalidOwner(address)",
+  "error OwnableUnauthorizedAccount(address)",
+  "event NFTListed(address indexed,uint256 indexed,uint256)",
+  "event NFTSold(address indexed,address indexed,uint256 indexed,uint256)",
+  "event OwnershipTransferred(address indexed,address indexed)",
+  "function buyNFT(uint256) payable",
+  "function getListing(uint256) view returns (tuple(address,uint256,uint256,bool))",
+  "function getListingCount() view returns (uint256)",
+  "function getListings() view returns (tuple(address,uint256,uint256,bool)[])",
+  "function listNFT(uint256,uint256)",
+  "function listings(uint256) view returns (address, uint256, uint256, bool)",
+  "function nftContract() view returns (address)",
+  "function owner() view returns (address)",
+  "function renounceOwnership()",
+  "function transferOwnership(address)"
+]
