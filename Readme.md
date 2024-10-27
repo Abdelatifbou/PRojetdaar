@@ -9,11 +9,6 @@ of CCG cards as NFT, create a marketplace for players to exchange NFT, and run a
 - [@Bouroucha Abdelatif]
 
 
-## Demo
-
-
-
-![Demo](./2024-10-27 19-32-39.gif)
 
 
 
